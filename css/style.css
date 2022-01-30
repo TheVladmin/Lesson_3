@@ -1,0 +1,45 @@
+@import "null.css";
+
+h1{
+    color: blueviolet;
+}
+
+.nav-title{
+    color: lightgreen;
+}
+
+nav a{
+    color: brown;
+}
+
+h3.zapoved-title{
+    color: red;
+}
+
+div>p{
+    color: olive;
+}
+
+[class*=-fandom]{
+    color: salmon;
+}
+
+#meliodas-title{
+    color: turquoise;
+}
+
+footer .text{
+    color: violet;
+}
+
+.text.teleport{
+    color: yellowgreen;
+} 
+
+.anime-link{
+    color: royalblue;
+}
+
+.teleport-link{
+    color: red;
+}
