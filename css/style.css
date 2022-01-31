@@ -8,8 +8,11 @@ h1{
     color: lightgreen;
 }
 
-.nav-title~h3
-{
+.next-obj+p{
+    color: pink;
+}
+
+.nav-title~h3{
     color: red;
 }
 
